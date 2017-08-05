@@ -1,0 +1,40 @@
+div {
+	border: 1px solid;
+}
+
+.fullwrap{
+	height: 2000px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.header{
+	height: 10%;
+	width: 98%;
+	margin: 10px;
+}
+
+.wrap{
+	height: 75%;
+	width: 96%;
+	margin: 10px;
+	padding: 10px;
+}
+
+.main{
+	height: 99%;
+	width: 55%;
+	float: left;
+}
+
+.sidebar{
+	height: 99%;
+	width: 35%;
+	float: right;
+}
+
+.footer{
+	height: 10%;
+	width: 98%;
+	margin: 10px;
+}

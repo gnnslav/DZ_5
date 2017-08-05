@@ -1,0 +1,16 @@
+
+div {
+  width: 400px;
+}
+
+img{
+	height: 170px;
+}
+
+.monkey{
+	float: left;
+}
+
+.bear{
+	float: right;
+}

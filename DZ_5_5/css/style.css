@@ -1,0 +1,51 @@
+.header {
+	width: 1280px;
+	height: 300px;
+	margin: 10px 0px 10px 50px;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	font: 20px tahoma;
+	text-align: justify;
+	line-height: 30px;
+}
+
+.advert {
+	width: 1280px;
+	height: 600px;
+}
+
+.box1 {
+	width: 510px;
+	margin: 0px;
+	padding: 0px 60px 00px 60px;
+	top: 10px;
+	display: inline-block;
+}
+
+.box2 {
+	width: 320px;
+	margin: 0px;
+	padding: 0px 50px 0px 50px;
+	display: inline-block;
+}
+
+button {
+	width: 1280px;
+	height: 50px;
+	background: #cf5b4e;
+	color: #f9e9da;
+	font:  20px tahoma ;
+	text-align: center;
+}
+
+.text{
+	padding: 10px 50px 10px 50px;
+}
+
+
+
