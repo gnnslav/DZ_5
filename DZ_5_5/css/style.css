@@ -1,7 +1,7 @@
 .header {
-	width: 1280px;
-	height: 300px;
-	margin: 10px 0px 10px 50px;
+	width: 960px;
+	height: 200px;
+	margin: 00px 0px 0px 00px;
 }
 
 h2 {
@@ -14,37 +14,63 @@ p {
 	line-height: 30px;
 }
 
+img {
+	height: 400px;
+}
+
 .advert {
-	width: 1280px;
+	width: 960px;
 	height: 600px;
+	padding: 0px;
+	margin: 0px;
 }
 
-.box1 {
-	width: 510px;
+.i1 .i2 .i4 .i5 {
+	height: 400px;
 	margin: 0px;
-	padding: 0px 60px 00px 60px;
-	top: 10px;
-	display: inline-block;
+	padding: 0px;
 }
 
-.box2 {
-	width: 320px;
-	margin: 0px;
-	padding: 0px 50px 0px 50px;
-	display: inline-block;
+.i1 {
+	width: 380px;
+	float: left;
+}
+
+.i2 {
+	width: 380px;
+	float: right;
+}
+
+.i3 {
+	width: 285px;
+	margin: 0px 50px 0px 0px;
+	float: left;
+	padding: 0px;
+}
+
+.i4 {
+	width: 285px;
+	float: left;
+}
+
+.i5 {
+	width: 285px;
+	float: right;
 }
 
 button {
-	width: 1280px;
 	height: 50px;
+	width: 960px;
 	background: #cf5b4e;
 	color: #f9e9da;
 	font:  20px tahoma ;
 	text-align: center;
+	border: 0px;
 }
 
-.text{
-	padding: 10px 50px 10px 50px;
+.text {
+	width: 900px;
+	padding: 10px 00px 10px 00px;
 }
 
 
